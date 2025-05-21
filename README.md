@@ -45,4 +45,8 @@ Note: Both the frontend and backend must be running at the same time for the app
 ---
 ## ScreenShots
 
+### Homepage
+![Homepage Screenshot](./outputs/2.png)
 
+### Product Details
+![Product Details Screenshot](./outputs/3.png)
