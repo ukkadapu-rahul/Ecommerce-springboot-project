@@ -50,3 +50,12 @@ Note: Both the frontend and backend must be running at the same time for the app
 
 ### Product Details
 ![Product Details Screenshot](./outputs/3.png)
+
+### Add a product
+![Add product screenshot](./outputs/1.png)
+
+### Add to Cart
+![Add to cart](./outputs/4.png)
+
+### Checkout from cart
+![checkout](./outputs/5.png)
