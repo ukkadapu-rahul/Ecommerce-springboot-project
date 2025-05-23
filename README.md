@@ -34,8 +34,8 @@ This is a basic CRUD-based eCommerce web application built using Spring Boot and
    cd [path-to-frontend-folder]
    npm install
    npm run dev
-this will install Node_modules which are necessary for project to run
 3. The frontend will start on: http://localhost:5173
+4. note: npm install is used to install Node_modules, which is necessary for React code to run
 
 ### Backend (SpringBoot)
 
