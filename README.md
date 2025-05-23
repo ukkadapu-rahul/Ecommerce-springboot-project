@@ -34,6 +34,7 @@ This is a basic CRUD-based eCommerce web application built using Spring Boot and
    cd [path-to-frontend-folder]
    npm install
    npm run dev
+this will install Node_modules which are necessary for project to run
 3. The frontend will start on: http://localhost:5173
 
 ### Backend (SpringBoot)
@@ -43,7 +44,7 @@ This is a basic CRUD-based eCommerce web application built using Spring Boot and
 Note: Both the frontend and backend must be running at the same time for the application to work correctly.
 
 ---
-## ScreenShots
+## Screenshots
 
 ### Homepage
 ![Homepage Screenshot](./outputs/2.png)
@@ -59,3 +60,6 @@ Note: Both the frontend and backend must be running at the same time for the app
 
 ### Checkout from cart
 ![checkout](./outputs/5.png)
+
+#### an image of IDE while making this project
+![Ide](./outputs/code.png)
